@@ -37,9 +37,21 @@ For a demonstration, please watch the following videos:
 
 The first video shows GET routes to return all categories, all products, and all tags being tested in insomnia:
 
+
+https://github.com/Essence1987/checkout/assets/129245370/d7f8357d-9e0e-45c6-bd9b-cfc606f30e2d
+
+
 The second video shows GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
+
+https://github.com/Essence1987/checkout/assets/129245370/aa222343-ce2c-4013-abe6-410a3df4be1b
+
+
 The third video shows the POST, PUT, and Delete routes for categories being tested in Insomnia.
+
+
+https://github.com/Essence1987/checkout/assets/129245370/c95c7c62-a01d-4b90-b237-151ae3545647
+
 
 
 
