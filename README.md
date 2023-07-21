@@ -17,9 +17,9 @@ This project is an e-commerce application that provides a backend server for man
 
 1. Clone the repository to your local machine using the following command in your terminal: git@github.com:Essence1987/tracker.git
 2. If needed, install the required dependencies by running the following command in the project directory: npm install
-3. Set up your MySQL database by importing the schema.sql file provided in the repository db folder.
-4. Configure the database connection by editing the .env file and providing your MySQL database credentials.
-5. Seed the demo content for the tables by running node seeds/index.js
+3. Rename .env.EXAMPLE to .env and update the Username and Password to match your MySql database credentials.
+4. Set up your MySQL database by importing the schema.sql file provided in the repository db folder.
+5. Exit MySql and Seed the demo content for the tables by running node seeds/index.js
 6. Start the application by running the following command: node server.js</br></br>
 
 ## **Usage**
@@ -28,7 +28,11 @@ The backend server will now be running, allowing you to perform various CRUD (Cr
 
 For a demonstration, please watch the following video:
 
-"Update with link for video here."
+The first video shows GET routes to return all categories, all products, and all tags being tested in insomnia:
+
+The second video shows GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+
+The third video shows the POST, PUT, and Delete routes for catagories being tested in Insomnia.
 
 
 
